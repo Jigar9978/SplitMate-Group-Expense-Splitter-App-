@@ -1,3 +1,22 @@
+SplitMate – Group Expense Splitter App 💸
+
+A simple and elegant React Native app to split bills among group members. Easily create groups, add expenses, track who owes whom, and view settlement summaries.
+
+✨ Features:
+->Add groups and members
+
+->Add and track shared expenses
+
+->Automatically calculate who owes whom
+
+->Clean and responsive UI
+
+->Built with React Native CLI and AsyncStorage
+
+🔧 Tech Stack: React Native CLI · JavaScript · AsyncStorage · Custom Hooks
+
+📱 Designed for job portfolio and interview preparation
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
